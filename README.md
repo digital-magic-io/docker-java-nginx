@@ -1,1 +1,1 @@
-# docker-java-nginx
+# Java container for JVM based application deployment with Nginx Reverce proxy
